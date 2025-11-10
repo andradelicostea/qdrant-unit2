@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  qdrant-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-11-03T09:32:05.142023182Z"
+    description: A Helm chart for Kubernetes
+    digest: a5a30cfd32b0e71a574760e0182ecae1023a664576f8e3194fa5bb686b077af9
+    name: qdrant-chart
+    type: application
+    urls:
+    - https://andradelicostea.github.io/qdrant-unit/qdrant-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-11-03T09:32:05.140655569Z"
