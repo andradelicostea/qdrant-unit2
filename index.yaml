@@ -1,15 +1,15 @@
 apiVersion: v1
 entries:
-  qdrant-sa:
+  my-chart:
   - apiVersion: v2
-    appVersion: 1.15.4
-    created: "2025-11-12T13:47:05.918883231Z"
+    appVersion: 1.16.0
+    created: "2025-10-30T12:03:38.103849817Z"
     description: A Helm chart for Kubernetes
-    digest: 9de4d139af0b40465a9ab7a7872cfb4fe41df0dec818bae608fa4d1e4e736e49
-    name: qdrant-sa
+    digest: 757ed17749472643c3e26655d2af79e282b480a84929f9346332327586595323
+    name: my-chart
     type: application
     urls:
-    - qdrant-sa-1.15.4.tgz
-    version: 1.15.4
-generated: "2025-11-12T13:47:05.918400588Z"
+    - https://gitlab.com/andra.deli-group/andra-chart/-/raw/main/my-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-10-30T12:03:38.10160976Z"
 
