@@ -6,9 +6,9 @@ entries:
     created: "2025-10-30T12:03:38.103849817Z"
     description: A Helm chart for Kubernetes
     digest: 757ed17749472643c3e26655d2af79e282b480a84929f9346332327586595323
-    name: my-chart
+    name: qdrant-sa
     type: application
     urls:
-    - https://gitlab.com/andra.deli-group/andra-chart/-/raw/main/my-chart-0.1.0.tgz
-    version: 0.1.0
+    - https://gitlab.com/andra.deli-group/andra-chart/-/raw/main/qdrant-sa-1.15.5.tgz
+    version: 1.15.5
 generated: "2025-10-30T12:03:38.10160976Z"
